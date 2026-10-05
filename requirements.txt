@@ -1,5 +1,0 @@
-# OASIS Infobyte Internship Project - Advanced BMI Calculator / BMI Health Tracker
-# Core Third-Party Dependencies
-matplotlib>=3.8.0
-
-# Note: tkinter and sqlite3 are standard Python built-in libraries included with standard Python installations.
