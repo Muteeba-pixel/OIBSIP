@@ -1,0 +1,16 @@
+# ==============================================================================
+# SecurePass: Professional Password Generation & Strength Utility
+# ==============================================================================
+# Modern Desktop Cybersecurity Workbench
+# Core GUI Framework:
+customtkinter>=6.0.0
+darkdetect>=0.8.0
+
+# Core Cryptographic & Domain Logic:
+# Python 3.8+ Standard Library (secrets, math, collections, dataclasses, unittest)
+
+# Optional Development & Quality Assurance:
+# pytest>=8.0.0
+# black>=24.0.0
+# flake8>=7.0.0
+# mypy>=1.8.0
